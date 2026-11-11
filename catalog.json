@@ -1,0 +1,123 @@
+{
+  "feed": 1,
+  "published": "2026-11-11 09:14 UTC",
+  "portal": {
+    "version": "1.2.0",
+    "file": "files/AI_MuE_Portal_Setup_v1.2.0.exe",
+    "sha256": "5216df834960ae40798c53720f0e28b41de62645382ed6fa8966d6b536a4a908"
+  },
+  "tools": [
+    {
+      "id": "revit",
+      "bit": 0,
+      "version": "2.4.0",
+      "name": "Revit",
+      "platform": "Autodesk Revit 2023 – 2027",
+      "tag": "Rv",
+      "color": "#1E6FD9",
+      "description": "يربط Revit بالذكاء الاصطناعي: جدران، أبواب وشبابيك، عائلات، مناظر، لوحات، جداول وتصدير PDF.",
+      "uninstallKey": "AIMuE_MostafaAwad",
+      "serverExe": "AIMuE.McpServer.exe",
+      "hosts": [
+        "Revit"
+      ],
+      "hostName": "Revit",
+      "file": "files/revit_2.4.0.bin",
+      "sha256": "8b121eded1e553e9269d3f65ad22acfc4dcdf45fc292ecba404c81659ee38892",
+      "size": 6650080
+    },
+    {
+      "id": "civil3d",
+      "bit": 1,
+      "version": "1.2.0",
+      "name": "AutoCAD و Civil 3D",
+      "platform": "AutoCAD / Civil 3D 2023 – 2027",
+      "tag": "C3D",
+      "color": "#C62828",
+      "description": "رسم وتعديل في AutoCAD وأدوات Civil 3D: أسطح، محاذاة، بروفايلات ونقاط.",
+      "uninstallKey": "AIMuE_Civil3D_MostafaAwad",
+      "serverExe": "AIMuE.Civil3D.McpServer.exe",
+      "hosts": [
+        "acad"
+      ],
+      "hostName": "AutoCAD / Civil 3D",
+      "file": "files/civil3d_1.2.0.bin",
+      "sha256": "dbfd440453b7c15bef6a78e5d5d46d7b00ebc5eb574ecb70dd8714205d583803",
+      "size": 272960
+    },
+    {
+      "id": "max",
+      "bit": 2,
+      "version": "1.3.0",
+      "name": "3ds Max",
+      "platform": "Autodesk 3ds Max 2023 – 2027",
+      "tag": "Max",
+      "color": "#00897B",
+      "description": "إنشاء وتعديل المجسمات والمعدِّلات والخامات وصور الرندر من المحادثة.",
+      "uninstallKey": "AIMuE_Max_MostafaAwad",
+      "serverExe": "AIMuE.Max.McpServer.exe",
+      "hosts": [
+        "3dsmax"
+      ],
+      "hostName": "3ds Max",
+      "file": "files/max_1.3.0.bin",
+      "sha256": "b66a15036e5b4eb0bbeeeeb277949c51bf6c3df7f244ab7d29f7b095eee27f49",
+      "size": 213616
+    },
+    {
+      "id": "csi",
+      "bit": 3,
+      "version": "1.1.0",
+      "name": "ETABS و SAP2000",
+      "platform": "CSI ETABS / SAP2000",
+      "tag": "CSI",
+      "color": "#EF6C00",
+      "description": "قراءة وتعديل النموذج الإنشائي: عناصر، أحمال، قطاعات، تحليل ونتائج.",
+      "uninstallKey": "AIMuE_CSI_MostafaAwad",
+      "serverExe": "AIMuE.CSI.exe",
+      "hosts": [],
+      "hostName": "ETABS / SAP2000",
+      "file": "files/csi_1.1.0.bin",
+      "sha256": "39dab6b94c64857681a91384ed5abea78439e1b185b26a36969cc1158218c1ff",
+      "size": 212512
+    },
+    {
+      "id": "sketchup",
+      "bit": 4,
+      "version": "1.3.0",
+      "name": "SketchUp",
+      "platform": "SketchUp 2023 – 2027 + V-Ray",
+      "tag": "SU",
+      "color": "#7B1FA2",
+      "description": "نمذجة في SketchUp ومجموعات ومكونات وخامات ورندر V-Ray من المحادثة.",
+      "uninstallKey": "AIMuE_SketchUp_MostafaAwad",
+      "serverExe": "AIMuE.SketchUp.Mcp.exe",
+      "hosts": [
+        "SketchUp"
+      ],
+      "hostName": "SketchUp",
+      "file": "files/sketchup_1.3.0.bin",
+      "sha256": "b8e3ece191130ea7b886a6b67975bea2613c25805486100776c88bbdcecd535f",
+      "size": 220048
+    },
+    {
+      "id": "unreal",
+      "bit": 5,
+      "version": "1.0.1",
+      "name": "Unreal Engine",
+      "platform": "Unreal Engine 5.x",
+      "tag": "UE",
+      "color": "#37474F",
+      "description": "بناء المشاهد في Unreal: عناصر، خامات، إضاءة، بلوبرنت وتشغيل بايثون.",
+      "uninstallKey": "AIMuE_Unreal_MostafaAwad",
+      "serverExe": "AIMuE.Unreal.McpServer.exe",
+      "hosts": [
+        "UnrealEditor"
+      ],
+      "hostName": "Unreal Engine",
+      "file": "files/unreal_1.0.1.bin",
+      "sha256": "be845dcfa6abc41658c1dcf9edd34a8492c920667e7e6a0251805230cd67d445",
+      "size": 228992
+    }
+  ]
+}
