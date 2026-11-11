@@ -1,16 +1,16 @@
 {
   "feed": 1,
-  "published": "2026-11-11 09:14 UTC",
+  "published": "2026-11-11 10:28 UTC",
   "portal": {
-    "version": "1.2.0",
-    "file": "files/AI_MuE_Portal_Setup_v1.2.0.exe",
-    "sha256": "5216df834960ae40798c53720f0e28b41de62645382ed6fa8966d6b536a4a908"
+    "version": "1.3.0",
+    "file": "files/AI_MuE_Portal_Setup_v1.3.0.exe",
+    "sha256": "326b825fbd8dbbad0a6544bf16b60cd28854aec129f55cfea936d1488a189edb"
   },
   "tools": [
     {
       "id": "revit",
       "bit": 0,
-      "version": "2.4.0",
+      "version": "2.4.1",
       "name": "Revit",
       "platform": "Autodesk Revit 2023 – 2027",
       "tag": "Rv",
@@ -22,14 +22,14 @@
         "Revit"
       ],
       "hostName": "Revit",
-      "file": "files/revit_2.4.0.bin",
-      "sha256": "8b121eded1e553e9269d3f65ad22acfc4dcdf45fc292ecba404c81659ee38892",
-      "size": 6650080
+      "file": "files/revit_2.4.1.bin",
+      "sha256": "7318dfcd98e7c908a5a4f18531758b794f5d7c82670f277f5ed165df90d383a5",
+      "size": 6653120
     },
     {
       "id": "civil3d",
       "bit": 1,
-      "version": "1.2.0",
+      "version": "1.2.1",
       "name": "AutoCAD و Civil 3D",
       "platform": "AutoCAD / Civil 3D 2023 – 2027",
       "tag": "C3D",
@@ -41,14 +41,14 @@
         "acad"
       ],
       "hostName": "AutoCAD / Civil 3D",
-      "file": "files/civil3d_1.2.0.bin",
-      "sha256": "dbfd440453b7c15bef6a78e5d5d46d7b00ebc5eb574ecb70dd8714205d583803",
-      "size": 272960
+      "file": "files/civil3d_1.2.1.bin",
+      "sha256": "ac9402807768431eb311056a2be61e60b177ac0144ef683de3560059a6cd43d8",
+      "size": 276512
     },
     {
       "id": "max",
       "bit": 2,
-      "version": "1.3.0",
+      "version": "1.3.1",
       "name": "3ds Max",
       "platform": "Autodesk 3ds Max 2023 – 2027",
       "tag": "Max",
@@ -60,14 +60,14 @@
         "3dsmax"
       ],
       "hostName": "3ds Max",
-      "file": "files/max_1.3.0.bin",
-      "sha256": "b66a15036e5b4eb0bbeeeeb277949c51bf6c3df7f244ab7d29f7b095eee27f49",
-      "size": 213616
+      "file": "files/max_1.3.1.bin",
+      "sha256": "192044e8ffc95944f6e7339a4112d08981af921cf7e21246916aa1227e84254d",
+      "size": 217536
     },
     {
       "id": "csi",
       "bit": 3,
-      "version": "1.1.0",
+      "version": "1.1.1",
       "name": "ETABS و SAP2000",
       "platform": "CSI ETABS / SAP2000",
       "tag": "CSI",
@@ -77,14 +77,14 @@
       "serverExe": "AIMuE.CSI.exe",
       "hosts": [],
       "hostName": "ETABS / SAP2000",
-      "file": "files/csi_1.1.0.bin",
-      "sha256": "39dab6b94c64857681a91384ed5abea78439e1b185b26a36969cc1158218c1ff",
-      "size": 212512
+      "file": "files/csi_1.1.1.bin",
+      "sha256": "e52893cfcd93659203f7395271738564e8541eda31f3ef5e7d46ab8691e07f45",
+      "size": 216224
     },
     {
       "id": "sketchup",
       "bit": 4,
-      "version": "1.3.0",
+      "version": "1.3.1",
       "name": "SketchUp",
       "platform": "SketchUp 2023 – 2027 + V-Ray",
       "tag": "SU",
@@ -96,14 +96,14 @@
         "SketchUp"
       ],
       "hostName": "SketchUp",
-      "file": "files/sketchup_1.3.0.bin",
-      "sha256": "b8e3ece191130ea7b886a6b67975bea2613c25805486100776c88bbdcecd535f",
-      "size": 220048
+      "file": "files/sketchup_1.3.1.bin",
+      "sha256": "f7782dbea835d311d3fdadcab9516760a1206a76961d7979199413edb8ee61fb",
+      "size": 223712
     },
     {
       "id": "unreal",
       "bit": 5,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "name": "Unreal Engine",
       "platform": "Unreal Engine 5.x",
       "tag": "UE",
@@ -115,9 +115,9 @@
         "UnrealEditor"
       ],
       "hostName": "Unreal Engine",
-      "file": "files/unreal_1.0.1.bin",
-      "sha256": "be845dcfa6abc41658c1dcf9edd34a8492c920667e7e6a0251805230cd67d445",
-      "size": 228992
+      "file": "files/unreal_1.0.2.bin",
+      "sha256": "65dbfdeac7c7d1fecb5391e8d33518988ebdc7669960cfb3a178a91655e4cfc3",
+      "size": 232576
     }
   ]
 }
