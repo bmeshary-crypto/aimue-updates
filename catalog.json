@@ -1,6 +1,6 @@
 {
   "feed": 1,
-  "published": "2026-11-11 10:28 UTC",
+  "published": "2026-11-12 13:38 UTC",
   "portal": {
     "version": "1.3.0",
     "file": "files/AI_MuE_Portal_Setup_v1.3.0.exe",
@@ -23,7 +23,7 @@
       ],
       "hostName": "Revit",
       "file": "files/revit_2.4.1.bin",
-      "sha256": "7318dfcd98e7c908a5a4f18531758b794f5d7c82670f277f5ed165df90d383a5",
+      "sha256": "c92c5a93923f332176651d368038e679881f9feb667b54c44edff03b36cd186c",
       "size": 6653120
     },
     {
@@ -42,7 +42,7 @@
       ],
       "hostName": "AutoCAD / Civil 3D",
       "file": "files/civil3d_1.2.1.bin",
-      "sha256": "ac9402807768431eb311056a2be61e60b177ac0144ef683de3560059a6cd43d8",
+      "sha256": "8f321e531ff890e3d6c21d2522563490e214fab280e84dab2dc064f0d8999d80",
       "size": 276512
     },
     {
@@ -61,7 +61,7 @@
       ],
       "hostName": "3ds Max",
       "file": "files/max_1.3.1.bin",
-      "sha256": "192044e8ffc95944f6e7339a4112d08981af921cf7e21246916aa1227e84254d",
+      "sha256": "09696fd9b27e3b67423fef7469ea335414df9520f49174591bf426357fa4532f",
       "size": 217536
     },
     {
@@ -78,7 +78,7 @@
       "hosts": [],
       "hostName": "ETABS / SAP2000",
       "file": "files/csi_1.1.1.bin",
-      "sha256": "e52893cfcd93659203f7395271738564e8541eda31f3ef5e7d46ab8691e07f45",
+      "sha256": "bd249fa661b9383195ed82ee8934a8044e9285db4e0a652b62574e47d9ab0cda",
       "size": 216224
     },
     {
@@ -97,7 +97,7 @@
       ],
       "hostName": "SketchUp",
       "file": "files/sketchup_1.3.1.bin",
-      "sha256": "f7782dbea835d311d3fdadcab9516760a1206a76961d7979199413edb8ee61fb",
+      "sha256": "79b2342a00b0cc083a9c34f52c446de3b82263fd1ad1412b769033d56af0a7e8",
       "size": 223712
     },
     {
@@ -116,8 +116,27 @@
       ],
       "hostName": "Unreal Engine",
       "file": "files/unreal_1.0.2.bin",
-      "sha256": "65dbfdeac7c7d1fecb5391e8d33518988ebdc7669960cfb3a178a91655e4cfc3",
+      "sha256": "05316fc9335f506c440adae1df4c76729d6e95e20cca58dd4e2a98daf0bd3613",
       "size": 232576
+    },
+    {
+      "id": "primavera",
+      "bit": 6,
+      "version": "1.0.0",
+      "name": "Primavera P6",
+      "platform": "Primavera P6 Professional 2023 – 2027 + EPPM",
+      "tag": "P6",
+      "color": "#C74634",
+      "description": "قراءة وتعديل جداول بريمافيرا: مشاريع، WBS، أنشطة، علاقات، موارد، تحديث التقدّم، المسار الحرج وفحص DCMA وملفات XER.",
+      "uninstallKey": "AIMuE_Primavera_MostafaAwad",
+      "serverExe": "AIMuE.Primavera.exe",
+      "hosts": [
+        "PM"
+      ],
+      "hostName": "Primavera P6",
+      "file": "files/primavera_1.0.0.bin",
+      "sha256": "d3e710b00c303f44540a40265f58feef766b4d1e89174f720af0f03327f4b1a1",
+      "size": 4222176
     }
   ]
 }
